@@ -11,7 +11,7 @@ const repeatString = function(string, number) {
     
     return "ERROR";
     
-    }
+}
 
     
 // Do not edit below this line
